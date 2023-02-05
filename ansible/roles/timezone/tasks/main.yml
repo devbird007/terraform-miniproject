@@ -1,0 +1,4 @@
+---
+- name: Set the timezone to Africa/Lagos
+  timezone:
+    name: "{{ timezone }}"
